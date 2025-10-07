@@ -1,3 +1,4 @@
+<div align='center'>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=003E00&height=150&section=header" />
 
 ### Full Stack Developer / Engineer
@@ -89,3 +90,4 @@
 <a href="https://sturdy-artichoke-04a.notion.site/285b067c765680b186cbe8c6dcfe7286?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=003E00&height=150&section=footer" />
+</div>
