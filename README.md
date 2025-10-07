@@ -5,8 +5,9 @@
 ## 송 승준  Ricky Song
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o11117&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o11117&layout=compact&hide=jupyter%20notebook&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o11117&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=o11117&theme=tokyonight&date_format=%5BY.%5Dn.j">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o11117&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
 </div>
 
 <br>
