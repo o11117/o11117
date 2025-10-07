@@ -5,7 +5,7 @@
 ## 송 승준  Ricky Song
 <hr>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o11117&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=o1111&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o11117&layout=compact&hide=jupyter%20notebook&theme=radical" />
 </div>
 
@@ -81,7 +81,7 @@
 | | 재단 멋쟁이사자처럼 (해커톤) | 2025.07.22 | Knock AI |
 | **혁신부문 우수상** | 재단 멋쟁이사자처럼 (어흥콘) | 2025.09.27 | Knock AI |
 | **대상(예정)** | 강남대학교 ICT공학부 학술대회 | 2025.10.13 | Knock AI |
-| **대상(예정)** | 제12회 전국 ICT융합 공모전 / 과학기술정보통신부 | 2025.08 | Knock AI |
+| **대상(예정)** | 제12회 전국 ICT융합 공모전 / 과학기술정보통신부 | 2025.10 | Knock AI |
 
 <br>
 
