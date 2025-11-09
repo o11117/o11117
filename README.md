@@ -6,7 +6,7 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=o11117&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=o11117&theme=tokyonight&date_format=%5BY.%5Dn.j">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=o11117&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o11117&layout=compact&hide=jupyter%20notebook&theme=tokyonight" />
 </div>
 
