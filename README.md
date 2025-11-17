@@ -1,5 +1,5 @@
 <div align='center'> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=003E00&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=003E00&height=150&section=header"/>
 
 ### Full Stack Developer / Engineer
 ## 송 승준  Ricky Song
