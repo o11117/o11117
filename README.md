@@ -61,7 +61,7 @@
 | **멋쟁이 사자처럼 13기** | 2024.11 ~  | 전국 IT 연합 동아리 멋쟁이사자처럼 13기 운영진 | www.likelionknu.com |
 | **Team 물땅참** | 2025.07 ~  | 전세사기 예방 AI (반응형 웹앱) | www.knock-knock.site |
 | **캡스톤 디자인** | 2025.01 ~  | 사용자 맞춤형 여행 일정 관리 플랫폼 | www.planitkor.com |
-| **SK-Shieldus Rookies 4th Dev** | 2025.07 ~  | 지능형 어플리케이션 개발자 과정 | AI, 풀스택 |
+| **SK-Shieldus Rookies 4th Dev** | 2025.07 ~  | 지능형 어플리케이션 개발자 과정 | AI, Full-Stack, InfraStructure |
 
 <br>
 <!--
@@ -72,7 +72,7 @@
 | **도망가자** | (여기에 프로젝트에 대한 간단한 설명을 작성하세요.) | `React` `Spring Boot` | [GitHub](링크) / [Deploy](링크) |
 | **PLANIT** | (AI 모델을 활용한 서비스 개발 경험을 작성해보세요.) | `Python` `PyTorch` | [GitHub](링크) / [Paper](링크) |
 | **KnockAI** | (DevOps 파이프라인 구축 경험을 어필해보세요.) | `AWS` `Docker` `Jenkins` | [GitHub](링크) |
-
+| **나의계란바구니** | (DevOps 파이프라인 구축 경험을 어필해보세요.) | `AWS` `Docker` `Jenkins` | [GitHub](링크) |
 <br>
 -->
 
