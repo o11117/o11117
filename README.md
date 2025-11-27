@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=003E00&height=150&section=header"/>
 
 ### Full Stack Developer / Engineer
-## 송 승준  Ricky Song
+## 송승준  Ricky Song
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=o11117&show_icons=true&theme=tokyonight" />
