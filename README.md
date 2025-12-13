@@ -59,7 +59,7 @@
 | 활동 | 기간 | 내용 | etc |
 | :--- | :--- | :---: | :---: |
 | **멋쟁이 사자처럼 13기** | 2024.11 ~  | 전국 IT 연합 동아리 멋쟁이사자처럼 13기 운영진 | www.likelionknu.com |
-| **Team 물땅참** | 2025.07 ~  | 전세사기 예방 AI (반응형 웹앱) | www.knock-knock.site |
+| **Team 물땅참** | 2025.07 ~ 2025.12 | 전세사기 예방 AI (반응형 웹앱) | www.knock-knock.site |
 | **캡스톤 디자인** | 2025.01 ~ 2025.12 | 사용자 맞춤형 여행 일정 관리 플랫폼 | www.planitkor.com |
 | **SK-Shieldus Rookies 4th Dev** | 2025.07 ~  2026.01 | 지능형 어플리케이션 개발자 과정 | AI, Full-Stack, InfraStructure |
 
