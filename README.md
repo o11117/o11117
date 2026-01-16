@@ -93,9 +93,16 @@
 
 ## Contact
 
-<a href="gunmagician@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/승준-송-967552375/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://sturdy-artichoke-04a.notion.site/285b067c765680b186cbe8c6dcfe7286?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="mailto:gunmagician@naver.com" target="_blank">
+  <img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/승준-송-967552375/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+</a>
+
+<a href="https://o11117.tistory.com" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=003E00&height=150&section=footer" />
 </div>
