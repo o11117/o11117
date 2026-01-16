@@ -12,7 +12,7 @@
 
 <br> 
 
-## 🛠️ Tech Stacks
+## Tech Stacks
 
 ### Frontend
 <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -29,6 +29,9 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://flywaydb.org/" target="_blank"><img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=Flyway&logoColor=white"/></a>
+<a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/></a>
+<a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+
 
 ### AI
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
@@ -39,7 +42,7 @@
 <a href="https://shap.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/SHAP-0085C7?style=flat-square&logoColor=white"/></a>
 
 
-### ☁️ DevOps
+### DevOps
 <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
@@ -49,8 +52,6 @@
 <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/></a>
 <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/></a>
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/></a>
-<a href="https://www.elastic.co/elasticsearch/" target="_blank"><img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
 
 <br>
 
@@ -62,19 +63,6 @@
 | **Team 물땅참** | 2025.07 ~ 2025.12 | 전세사기 예방 AI (반응형 웹앱) | www.knock-knock.site |
 | **캡스톤 디자인** | 2025.01 ~ 2025.12 | 사용자 맞춤형 여행 일정 관리 플랫폼 | www.planitkor.com |
 | **SK-Shieldus Rookies 4th Dev** | 2025.07 ~  2026.01 | 지능형 어플리케이션 개발자 과정 | AI, Full-Stack, InfraStructure |
-
-<br>
-<!--
-## Projects
-
-| 프로젝트명 | 내용 | 사용 기술 | 링크 |
-| :--- | :--- | :---: | :---: |
-| **도망가자** | (여기에 프로젝트에 대한 간단한 설명을 작성하세요.) | `React` `Spring Boot` | [GitHub](링크) / [Deploy](링크) |
-| **PLANIT** | (AI 모델을 활용한 서비스 개발 경험을 작성해보세요.) | `Python` `PyTorch` | [GitHub](링크) / [Paper](링크) |
-| **KnockAI** | (DevOps 파이프라인 구축 경험을 어필해보세요.) | `AWS` `Docker` `Jenkins` | [GitHub](링크) |
-| **나의계란바구니** | (DevOps 파이프라인 구축 경험을 어필해보세요.) | `AWS` `Docker` `Jenkins` | [GitHub](링크) |
-<br>
--->
 
 ## 🏆 Awards & Recognition
 
@@ -88,11 +76,22 @@
 | **최우수상** | SK Shieldus Rookies 개발 4기 | 2026.01.14 | 나의 계란바구니 |
 | **성적우수상 (1등)** | SK Shieldus Rookies 개발 4기 | 2026.01.14 | 송승준 |
 
+## Projects
 
+| 프로젝트명 | 내용 | 사용 기술 | 링크 |
+| :--- | :--- | :---: | :---: |
+| **멋쟁이사자처럼 어플라이 페이지** | 강남대학교 멋쟁이사자처럼 13기의 동아리 소개와 신입 부원 모집 및 선발 과정을 통합적으로 관리하고 지원하는 웹 플랫폼 | `React` `Spring Boot` | [GitHub](링크) |
+| **도망가자** | 지진, 폭염, 한파, 미세먼지 등 다양한 재난 상황 발생 시, 사용자 위치를 기반으로 가장 가까운 안전 대피소를 지도에 시각화하여 안내하고 긴급 재난 문자 서비스를 제공하는 재난 대피 도우미 서비스 | `ReactNative` `Expo` | [GitHub](링크) |
+| **PLANIT** | 웹 크롤링 기반의 방대한 여행 데이터와 AI 검색 기능을 결합하여, 사용자에게 최적화된 여행 코스 추천 및 일정 관리 서비스를 제공하는 여행 정보 통합 플랫폼 | `React` `Node.js Express` | [GitHub](링크) |
+| **Zikiring** | 머신러닝 기반의 웹사이트 분석 모델을 통해 사용자가 입력한 URL의 악성 여부를 실시간으로 진단하고, 상세한 보안 리포트와 대시보드를 제공하는 지능형 피싱 탐지 플랫폼 | `Streamlit` `Scikit-learn` `BS4` | [GitHub](링크) / [Paper](링크) |
+| **OUNGO** | 사용자가 지역 및 종목별 조건을 설정하여 원하는 운동 모임을 개설하거나 참여할 수 있는 스포츠 매칭 커뮤니티 플랫폼 | `SpringBoot Admin` `Framer Motion` | [GitHub](링크) / [Paper](링크) |
+| **전봉준AI** | LangChain과 RAG 기술을 적용한 FastAPI 기반의 AI 엔진을 유기적으로 통합, 사용자에게 심도 있는 금융 데이터 분석과 개인화된 투자 상담을 제공하는 지능형 로보어드바이저 서비스 | `LangChain` `RAG` `Docker` `k8s` | [GitHub](링크) / [Paper](링크) |
+| **KnockAI** | AI서버가 유기적으로 연동되어 사용자가 업로드한 부동산 등기부등본을 정밀 분석하고 전세 사기 위험도 진단 및 이해하기 쉬운 요약 리포트를 제공하는 지능형 부동산 안심 플랫폼 | `One-Class SVM` `SHAP` | [GitHub](링크) |
+| **나의 계란바구니** | GCN 기반의 AI 모델과 실시간 뉴스 트렌드 분석을 결합하여, 사용자에게 맞춤형 주식 포트폴리오 리밸런싱 조언과 자동 매매 기능을 제공하는 MSA 기반의 지능형 주식 투자 플랫폼 | `AWS` `Kafka` `ElasticSearch` `Websocket` `Pytorch` `Gradient Boosting models`| [GitHub](링크) |
 
 <br>
 
-## 📫 Contact
+## Contact
 
 <a href="gunmagician@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/승준-송-967552375/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
